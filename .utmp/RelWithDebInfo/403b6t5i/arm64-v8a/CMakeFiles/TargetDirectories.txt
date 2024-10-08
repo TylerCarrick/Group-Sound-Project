@@ -1,0 +1,5 @@
+C:/temp/year 2/Tyler/Unity Projects/Phone UI/Group Sound Project/.utmp/RelWithDebInfo/403b6t5i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/temp/year 2/Tyler/Unity Projects/Phone UI/Group Sound Project/.utmp/RelWithDebInfo/403b6t5i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/temp/year 2/Tyler/Unity Projects/Phone UI/Group Sound Project/.utmp/RelWithDebInfo/403b6t5i/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/temp/year 2/Tyler/Unity Projects/Phone UI/Group Sound Project/.utmp/RelWithDebInfo/403b6t5i/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/temp/year 2/Tyler/Unity Projects/Phone UI/Group Sound Project/.utmp/RelWithDebInfo/403b6t5i/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
